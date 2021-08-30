@@ -1,4 +1,4 @@
-# How-to-Hack-Hacker-News
+# Codecademy -- How-to-Hack-Hacker-News
 
 /* read into the data and pick the top five stores with highest score */
 select title, score
